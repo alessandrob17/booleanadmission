@@ -1,0 +1,83 @@
+/* selettore {
+  proprietà: valore
+  proprietà: valore
+
+} */
+
+body {
+	height: 100%;
+  background-image: url("background.jpg");
+	background-size: cover;
+
+
+}
+
+.container{
+background-color: rgba(13, 13, 13, 0.5);
+position: absolute;
+height: 85%;
+width: 62%;
+left: 20%;
+top: 5%;
+border-radius: 11px;
+}
+
+.text-align {
+  text-align: center;
+}
+
+.logo-lim{
+  width: 20%;
+  margin-top: 6%
+}
+
+.logo-text {
+font-size: 25px;
+color: #00DD00;
+margin-top: 1%;
+font-family: sans-serif;
+}
+
+
+.bg-button {
+  background-color: #00DD00;
+	width: 80%;
+	padding: 1%;
+	margin: auto;
+	margin-top: -1%;
+}
+
+
+.main-text {
+  font-family: sans-serif;
+	color: white;
+	margin-top: 2%;
+	margin-left: 8.6%;
+}
+
+
+.line-orange {
+
+	background-color: orange;
+	width: 25%;
+	padding: 1.2%;
+	border-radius: 5px;
+	margin-bottom: 2%;
+}
+
+.line-green {
+	background-color: #14de1e;
+	width: 50%;
+	padding: 1.2%;
+	border-radius: 5px;
+	margin-bottom: 2%;
+
+}
+
+.line-red {
+
+	background-color: #ff143c;
+	width: 10%;
+	padding: 1.2%;
+	border-radius: 5px;
+}
